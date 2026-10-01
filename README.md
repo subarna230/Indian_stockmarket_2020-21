@@ -36,6 +36,8 @@ The main objectives of this project are:
 
 The project uses historical stock-market data containing daily closing prices for a large number of Indian stocks.
 
+NOTE: THE FOLLOWING DATA SET PROVIDED IN THE app.py doesnot contain in github due to exceeding in size.
+
 ### Dataset Information
 
 - **Total observations:** 698,519
